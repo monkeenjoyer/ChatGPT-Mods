@@ -1,7 +1,7 @@
 This Github repository is dedicated to showcasing examples and techniques for prompt engineering with ChatGPT. Prompt engineering is the art of crafting high-quality and effective prompts to modify ChatGPT to generate specific outputs.
 
 
-------------ChatGPT-M0DS------------ChatGPT-M0DS------------ChatGPT-M0DS------------ChatGPT-M0DS------------ChatGPT-M0DS------------ChatGPT-M0DS------------ChatGPT-M0DS------------ChatGPT-M0DS-----------
+------------ChatGPT-M0DS------------ChatGPT-M0DS------------ChatGPT-M0DS------------ChatGPT-M0DS------------ChatGPT-M0DS------------
 
 
 Disclaimer: All prompts provided in the ChatGPT-Mods GitHub repository are offered for informational and educational purposes only. The prompts have not been verified or tested, and therefore, their accuracy or effectiveness cannot be guaranteed. The use of these prompts is at your own risk, and ChatGPT-Mods and its contributors shall not be liable for any damages or losses resulting from the use or misuse of the prompts. By accessing and using the prompts, you agree to accept full responsibility for any consequences that may arise from such use.
@@ -10,7 +10,7 @@ Disclimer 2: : While the examples and techniques in this repository are designed
 
 
 
-------------ChatGPT-M0DS------------ChatGPT-M0DS------------ChatGPT-M0DS------------ChatGPT-M0DS------------ChatGPT-M0DS------------ChatGPT-M0DS------------ChatGPT-M0DS------------ChatGPT-M0DS-----------
+------------ChatGPT-M0DS------------ChatGPT-M0DS------------ChatGPT-M0DS------------ChatGPT-M0DS------------ChatGPT-M0DS------------
 
 
 
