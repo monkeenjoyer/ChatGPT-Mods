@@ -18,3 +18,13 @@ What if(s):
 
 The if: What if I want to add a prompt that modifies ChatGPT
 Response: Go to discussions and post the prompt that does so
+
+
+
+
+
+
+
+
+
+You have reached the bottom; for now.
