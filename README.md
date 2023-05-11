@@ -17,6 +17,7 @@ Disclimer 2: : While the examples and techniques in this repository are designed
 What if(s):
 
 The if: What if I want to add a prompt that modifies ChatGPT
+
 Response: Go to discussions and post the prompt that does so
 
 
@@ -27,4 +28,4 @@ Response: Go to discussions and post the prompt that does so
 
 
 
-You have reached the bottom; for now.
+
