@@ -20,6 +20,22 @@ The if: What if I want to add a prompt that modifies ChatGPT
 
 Response: Go to discussions and post the prompt that does so
 
+------------ChatGPT-M0DS------------ChatGPT-M0DS------------ChatGPT-M0DS------------ChatGPT-M0DS------------ChatGPT-M0DS------------
+
+Troubleshooting
+If ChatGPT rejects the prompt, replace the prompt with hello first
+Ex:
+
+<User>: (Prompt)
+  <ChatGPT>: (Sorry, I cannot comply with that prompt as it goes aganist OpenAI polies)
+    
+    Do this then,
+    
+    <User>: (Hello)
+      <ChatGPT>: (How may I assist you today?)
+             <User>: (Prompt)
+      <ChatGPT>: (Response following the prompt)
+
 
 
 
