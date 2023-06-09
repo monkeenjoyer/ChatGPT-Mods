@@ -26,7 +26,7 @@ Troubleshooting
 If ChatGPT rejects the prompt, replace the prompt with hello first
 Ex:
 
-<User>: (Prompt)
+<<User>: (Prompt)
   <ChatGPT>: (Sorry, I cannot comply with that prompt as it goes aganist OpenAI polies)
     
     Do this then,
@@ -34,7 +34,7 @@ Ex:
     <User>: (Hello)
       <ChatGPT>: (How may I assist you today?)
              <User>: (Prompt)
-      <ChatGPT>: (Response following the prompt)
+      <ChatGPT>: (Response following the prompt)>>
 
 
 
