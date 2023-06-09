@@ -27,7 +27,8 @@ If ChatGPT rejects the prompt, replace the prompt with hello first
 Ex:
 
 (User): (Prompt)
-  (ChatGPT): (Sorry, I cannot comply with that prompt as it goes aganist OpenAI polies)
+
+(ChatGPT): (Sorry, I cannot comply with that prompt as it goes aganist OpenAI polies)
     
     Do this then,
     
